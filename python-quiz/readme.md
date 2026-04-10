@@ -13,7 +13,7 @@ A robust, terminal-based application built in Python for creating, managing, and
 * **Quiz_item** The data model for a single question. It handles the formatting of the question/choices and validation of answers.
 * **Quiz:** A container class that manages a collection of Quiz_item objects within a dictionary.
 
-## 🚀 How to Run
+## How to Run
 1. Ensure you have Python installed.
 2. Run the script:
    ```bash
